@@ -3,3 +3,9 @@ python tested in terminal
 and Used postman for the hitting 
 
 the output crud operation.
+
+API created on todo App that finds you to add task in post method and read on get method.
+
+opeeration update and delete is also used.
+
+This code include FastAPI and tested 5 cased passed
